@@ -1,1 +1,1 @@
-# react-tailwind-template
+# Template de React + Tailwind
